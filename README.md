@@ -64,9 +64,9 @@ Applications mobiles connectées à des API Laravel.
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gregoir30&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregoir30&layout=compact)
 
 ---
 
