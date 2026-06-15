@@ -10,7 +10,6 @@
 
 🎯 Objectif : contribuer à des projets technologiques à impact positif, favoriser l’accès au numérique en Afrique, et évoluer vers un rôle d’ingénieur capable de construire des systèmes fiables, utiles et accessibles.
 
----
 
 ## 🛠️ Technologies et Outils
 
@@ -27,13 +26,13 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
----
+
 
 ### 📱 Développement Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 
----
+
 
 ### 🔐 Systèmes & Réseaux
 
@@ -41,7 +40,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple?style=for-the-badge&logo=kalilinux)
 
----
+
 
 ## 📚 Ce que je fais actuellement
 
@@ -51,7 +50,7 @@
 - Administration des systèmes et réseaux  
 - Automatisation et amélioration des processus avec Python  
 
----
+
 
 ## 🔥 Projets en vedette
 
@@ -64,7 +63,7 @@ Application de gestion des stages et des étudiants.
 ### 📱 Applications Flutter
 Applications mobiles connectées à des APIs Laravel.
 
----
+
 
 ## 📈 Statistiques GitHub
 
@@ -72,7 +71,7 @@ Applications mobiles connectées à des APIs Laravel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregoir30&layout=compact)
 
----
+
 
 ## 📫 Contact
 
@@ -80,7 +79,7 @@ Applications mobiles connectées à des APIs Laravel.
 💼 LinkedIn : www.linkedin.com/in/gregoirsaba  
 🌐 Portfolio : https://gregoir30.github.io/OpenTech_Flow/
 
----
+
 
 ## ⚡ Citation personnelle
 
