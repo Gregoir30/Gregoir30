@@ -73,8 +73,8 @@ Applications mobiles connectées à des API Laravel.
 ## 📫 Me contacter
 
 - Email : gregoiresaba15@gmail.com
-- LinkedIn : Ajouter votre profil
-- Portfolio : Ajouter votre site web
+- LinkedIn : www.linkedin.com/in/gregoirsaba
+- Portfolio : [Ajouter votre site web](https://gregoir30.github.io/OpenTech_Flow/)
 
 ---
 
